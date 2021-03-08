@@ -2,9 +2,9 @@ Prasanna Raj Mallipudi
 ============
 
 -------------------     ----------------------------
-Email                    prasannaraj.m@apssdc.in
-Phone                    XXXXXXXXX
-MyCountry                India
+- Email                    prasannaraj.m@apssdc.in
+- Phone                    XXXXXXXXX
+- MyCountry                India
 -------------------     ----------------------------
 
 Education
