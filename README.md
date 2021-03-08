@@ -12,6 +12,7 @@ Education
 
 2020-2021 (expected)
 :   **PhD, Computer Science**; University (MyTown)
+    **8.0 **
 
     *Thesis title: Machine Learning Approaches to the Cricket Analysis Prediction *
 
@@ -38,8 +39,8 @@ Certifications
 
 Personal Info
 --------------------
-Father Name : xxxxxxxxxxxxxx
-DOB         : ####/##/##
-Gender      : Male
-Address     : Guntur
+- Father Name : xxxxxxxxxxxxxx
+- DOB         : ####/##/##
+- Gender      : Male
+- Address     : Guntur
 
